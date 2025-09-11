@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17102197.svg)](https://doi.org/10.5281/zenodo.17102197)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![Download PDF](https://img.shields.io/badge/Download-PDF-ff69b4.svg?style=flat&logo=adobeacrobatreader)](https://github.com/ArkOkupski-WAT/A-Tale-of-Deep-Symmetry-in-the-World/raw/main/A_Tale_of_Deep_Symmetry_in_the_World.pdf)
+
 > **Where corks, paper tubes, and plastic lids meet quantum gravity.**
 
 This repository contains the source and narrative for a visual essay that proposes a radical, intuitive model of matter, antimatter, and the deepest symmetries of our Universe, using simple physical analogs.
